@@ -1,3 +1,5 @@
+// https://steveholgado.com/typescript-types-from-arrays/
+
 const buttons = [
     { key: "Backspace", value: "delete" },
     { key: "Escape", value: "clear" },
